@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm **Adam Brolin**, a second-year Information Technology student at **[KTH Royal Institute of Technology](https://www.kth.se/utbildning/civilingenjor/informationsteknik/informationsteknik-civilingenjor-300-hp-1.4120)** in Stockholm. I'm passionate about programming, problem-solving, and continuously expanding my technical skills. This GitHub profile serves as a showcase of my projects, skills, and learning journey in the world of IT.
+Hi there! I'm **Adam Brolin**, a second-year Information Technology student at **[KTH Royal Institute of Technology](https://www.kth.se/utbildning/civilingenjor/informationsteknik/informationsteknik-civilingenjor-300-hp-1.4120)** in Stockholm. I'm passionate about programming, problem-solving, and continuously expanding my technical skills. 
 
 
 ## 👨‍💻 About Me
